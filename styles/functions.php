@@ -235,8 +235,6 @@ function twentyten_admin_header_style() {
 }
 endif;
 
-add_filter('jpeg_quality', function($arg){return 100;});
-
 /**
  * Show a home link for our wp_nav_menu() fallback, wp_page_menu().
  *
