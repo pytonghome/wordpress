@@ -13,6 +13,28 @@ Text Domain: twentyten
 
 /* custom settings */
 
+.marketing-photos {
+	margin-top: 30px;
+	height: 110px;
+}
+
+.marketing-photos * img {
+	width: 149px;
+	height: 91px;
+}
+
+#content table.ongoing-projects {
+	margin: -25px 0 0px 350px;
+	width: 400px;
+	line-height: 0;
+	border: none;
+}
+
+#content table.ongoing-projects tr td {
+	padding: 15px 0;
+	border: none; 
+}
+
 .calibri {
 	font-family: "Calibri", Arial, Helvetica, "Nimbus Sans L", sans-serif;
 }
@@ -22,6 +44,7 @@ Text Domain: twentyten
 }
 
 .positions-available-desc{
+	width: 755px;
 	margin-top: 10px;
 }
 
