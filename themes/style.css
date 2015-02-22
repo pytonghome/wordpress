@@ -13,6 +13,14 @@ Text Domain: twentyten
 
 /* custom settings */
 
+.funding-agencies {
+	margin-top: 30px;
+}
+
+.funding-agencies img {
+	width: 771px;
+}
+
 .marketing-photos {
 	margin-top: 30px;
 	height: 110px;
@@ -149,7 +157,7 @@ Text Domain: twentyten
 }
 
 .contact-details {
-	margin: -295px 40px 0 0;
+	margin: -330px 40px 0 0;
 	float: right;
 }
 
